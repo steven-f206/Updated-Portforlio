@@ -187,7 +187,7 @@ body {
     background-color: white;
     border: 1px solid rgba(0,0,0,.125);
     border-radius: 5px;
-    margin-bottom: 30px;
+    margin-bottom: 0;
     box-shadow: 0 3px 6px rgba(0,0,0,0.08), 0 3px 6px rgba(0,0,0,0.15);
   }
   
@@ -199,6 +199,8 @@ body {
     display: block;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
+    height: 216px;
+    width: 370px;
   }
   
   .project-content {
